@@ -1,7 +1,6 @@
 # odin-recipes
 
-## My first official "project" for The Odin Project
-**Recipes website**
+My first official "project" for The Odin Project: **Recipes website**
 
 ## What I've applied and reinforced during this project
 - Basic HTML sintax.
