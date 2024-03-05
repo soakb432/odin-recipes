@@ -11,3 +11,11 @@ h1 {
 h1, .section {
   color: #01161E;
 }
+
+img {
+  width: 350px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
