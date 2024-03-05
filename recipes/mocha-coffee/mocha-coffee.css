@@ -18,3 +18,8 @@ img {
 h1, .section {
   color: #FFC2AD;
 }
+
+p {
+  color: #2D080A;
+  text-align: justify;
+}
