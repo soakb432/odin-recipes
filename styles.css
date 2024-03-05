@@ -14,5 +14,9 @@ ul {
 }
 
 a {
-  color: #1B7462
+  color: #1B7462;
+}
+
+a:hover {
+  color: #23395B;
 }
