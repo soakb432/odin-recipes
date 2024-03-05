@@ -2,3 +2,7 @@ body {
   background-color: #CD5D67;
   font-family: 'Trebuchet MS', Tahoma, sans-serif;
 }
+
+h1 {
+  text-align: center;
+}
