@@ -3,3 +3,11 @@ body {
   font-family: 'Trebuchet MS', Tahoma, sans-serif;
   color: #2d3b36;
 }
+
+h1 {
+  text-align: center;
+}
+
+h1, .section {
+  color: #01161E;
+}
