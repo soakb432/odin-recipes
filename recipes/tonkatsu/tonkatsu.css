@@ -23,3 +23,7 @@ p {
   color: #410B13;
   text-align: justify;
 }
+
+ul, ol {
+  color: #421820;
+}
