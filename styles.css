@@ -28,6 +28,8 @@ ul {
 
 #recipe-list {
   background: #D9E8DE;
+  padding: 8px;
+  margin: 0 8px;
 }
 
 a {
