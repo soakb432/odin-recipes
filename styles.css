@@ -26,6 +26,10 @@ ul {
   margin-bottom: 12px;
 }
 
+#recipe-list {
+  background: #D9E8DE;
+}
+
 a {
   color: #1B7462;
 }
