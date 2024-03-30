@@ -17,6 +17,10 @@ h1 {
   margin: 8px 100px;
 }
 
+.recipe {
+  text-align: center;
+}
+
 a {
   color: #1B7462;
 }
